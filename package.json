@@ -1,6 +1,6 @@
 {
     "name": "@y7k/component-checkbox",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "A Vue checkbox UI component",
     "main": "src/js/main.js",
     "scripts": {
