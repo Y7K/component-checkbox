@@ -3,7 +3,7 @@ import Vue from 'vue';
 import _Checkbox from './components/Checkbox';
 
 export default {
-    registerGlobally() {
+    registerGlobally: function() {
         Vue.component('checkbox', _Checkbox);
     },
 };
